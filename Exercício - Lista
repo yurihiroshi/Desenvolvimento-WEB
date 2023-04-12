@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<head>
+  <title>Site com Listas</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #c1e1c1; /* Cor de fundo verde claro */
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #fff;
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    }
+    h1 {
+      color: #333;
+      text-align: center;
+    }
+    ul {
+      list-style-type: disc;
+      padding-left: 20px;
+    }
+    ol {
+      list-style-type: decimal;
+      padding-left: 20px;
+    }
+    li {
+      color: #555;
+      font-size: 16px;
+      line-height: 1.4;
+    }
+    footer {
+      margin-top: 40px;
+      color: #777;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Alimentação Inteligente</h1>
+    <h2>Alimentos Ricos em Vitamina C</h2>
+    <ul>
+      <li>Limão</li>
+      <li>Laranja</li>
+      <li>Tangerina</li>
+      <li>Abacaxi</li>
+      <li>Acerola</li>
+    </ul>
+    <h2>Alimentos Ricos em Vitamina A</h2>
+    <ol>
+      <li>Peixes</li>
+      <li>Leite Integral</li>
+      <li>Vegetais de Cor Laranja</li>
+      <li>Frutas de Cor Laranja</li>
+    </ol>
+    <h2>Alimentos Ricos em Vitamina E</h2>
+    <ul>
+      <li>Granola</li>
+      <li>Linhaça</li>
+      <li>Amêndoas</li>
+      <li>Nozes</li>
+      <li>Gema do Ovo</li>
+    </ul>
+    <h2>Alimentos Ricos em Vitamina D</h2>
+    <ol>
+      <li>Salmão</li>
+      <li>Sardinha</li>
+      <li>Gema de Ovo</li>
+    </ol>
+    <h2>Alimentos Ricos em Ômega-3</h2>
+    <ul>
+      <li>Atum</li>
+      <li>Salmão</li>
+      <li>Sardinha</li>
+      <li>Sementes de chia e linhaça</li>
+      <li>Óleos Vegetais</li>
+    </ul>
+    <h2>Alimentos Ricos em Zinco</h2>
+    <ol>
+      <li>Aves</li>
+      <li>Carnes</li>
+      <li>Cereais Integrais</li>
+      <li>Feijão</li>
+      <li>Frutos do Mar</li>
+      <li>Leite</li>
+      <li>Nozes</li>
+    </ol>
+    <h2>Alimentos Antioxidantes</h2>
+    <ul>
+      <li>Aveia</li>
+      <li>Azeite de Oliva</li>
+      <li>Linhaça</li>
+      <li>Framboesa</li>
+      <li>Noz</li>
+      <li>Mirtilo</li>
+      <li>Uva</li>
+      <li>Batata Doce</li>
+      <li>Laranja</li>
+      <li>Maça</li>
+    </ul>
+  </div>
+</body>
+</html>
