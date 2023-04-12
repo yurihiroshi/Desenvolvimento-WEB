@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<head>
+  <title>Piada Engraçada Paciente Sumidinho</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #ffffe6; /* Cor amarelo claro de fundo */
+    }
+    .container {
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 20px;
+      text-align: center;
+      background-color: #fff;
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    }
+    h1 {
+      color: #000;
+    }
+    p {
+      color: #333;
+      font-size: 18px;
+      line-height: 1.6;
+      margin-bottom: 20px;
+    }
+    footer {
+      margin-top: 40px;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+  <p><center><h1> Os loucos e o cocô </center></h1></p>
+	<p>Dois <b>loucos</b> andavam pelo pátio do hospício quando viram um tolete de</p>
+	<p><s>merda</s> cocô. Então, um deles <u>diz:</u>
+	<p><em>_ O que é isso?</em></p>
+	<p>O outro <u>responde:</u></p>
+	<p>_ Eu acho que é <s>merda</s> cocô.</p>
+	<p>Eles se olham e o primieiro <u>diz:</u></p>
+	<p><em>_Será? Vamos experimentar para ver se é.</em><p>
+	<p>Os dois experimentaram e o segundo <u>comenta:</u></p>
+	<p><em>_ É merda cocô mesmo, <b>ainda bem que nós não pisamos.</b></em><p>
+  </div>
+  <footer>
+Piada dos loucos e o cocô
+  </footer>
+</body>
+</html>
